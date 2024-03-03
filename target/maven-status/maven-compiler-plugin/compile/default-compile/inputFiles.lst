@@ -1,0 +1,8 @@
+/home/joao.santos/Documents/GitHub/dataplayers/src/main/java/com/projects/dataplayers/domain/Player.java
+/home/joao.santos/Documents/GitHub/dataplayers/src/main/java/com/projects/dataplayers/domain/PlayerClubTeam.java
+/home/joao.santos/Documents/GitHub/dataplayers/src/main/java/com/projects/dataplayers/controller/PlayerController.java
+/home/joao.santos/Documents/GitHub/dataplayers/src/main/java/com/projects/dataplayers/DataplayersApplication.java
+/home/joao.santos/Documents/GitHub/dataplayers/src/main/java/com/projects/dataplayers/service/PlayerService.java
+/home/joao.santos/Documents/GitHub/dataplayers/src/main/java/com/projects/dataplayers/domain/Statistics.java
+/home/joao.santos/Documents/GitHub/dataplayers/src/main/java/com/projects/dataplayers/domain/PlayerNationalTeam.java
+/home/joao.santos/Documents/GitHub/dataplayers/src/main/java/com/projects/dataplayers/repositories/PlayerRepository.java

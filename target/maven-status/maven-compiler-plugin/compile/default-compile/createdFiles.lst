@@ -1,0 +1,8 @@
+com/projects/dataplayers/domain/PlayerNationalTeam.class
+com/projects/dataplayers/domain/PlayerClubTeam.class
+com/projects/dataplayers/domain/Player.class
+com/projects/dataplayers/DataplayersApplication.class
+com/projects/dataplayers/repositories/PlayerRepository.class
+com/projects/dataplayers/service/PlayerService.class
+com/projects/dataplayers/domain/Statistics.class
+com/projects/dataplayers/controller/PlayerController.class
